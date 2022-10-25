@@ -1,3 +1,7 @@
 Hello World!!
+<<<<<<< HEAD
 
 I am making changes in the Main Branch
+=======
+I am making changes the Main Branch
+>>>>>>> fb17020d6c60ba66f51d1df6a109da294bc3a229
